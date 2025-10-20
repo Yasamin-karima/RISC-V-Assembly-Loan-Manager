@@ -30,7 +30,7 @@ The program processes all transaction reports and calculates how much each perso
 
 | Path | Description |
 |------|--------------|
-| `merged/LoanManager.s` | Complete code merged into a single runnable file for CPUlator |
+| `fianl_merged.s` | Complete code merged into a single runnable file for CPUlator |
 | `modules/` | Contains separated parts of the project (e.g., I/O, calculation, data, helpers) |
 | `docs/project_description.pdf` | Original Persian document describing the project task |
 | `docs/code_report.pdf` | Detailed Persian report written by me, explaining design and implementation |
